@@ -9,6 +9,7 @@
 
 # Alkaa 3.0 - Multiplatform
 
+
 Alkaa (_begin_, _start_ in Finnish) is a to-do application project to study the latest components,
 architecture and tools for Android development. The project evolved a lot since the beginning is
 available on Google Play and App Store! ❤️
